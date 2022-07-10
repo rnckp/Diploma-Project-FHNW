@@ -3,7 +3,7 @@
 My capstone project for the Diploma of Advanced Studies (DAS) in Data Science at Fachhochschule Nordwestschweiz [FHNW](https://www.fhnw.ch/de/weiterbildung/technik/das-data-science)
 
 
-- [Related article from FHNW](https://www.fhnw.ch/de/weiterbildung/technik/data-science/projekte/warum-das-entdecken-von-podcasts-so-schwierig-ist-und-was-man-mit-machine-learning-dagegen-tun-kann) (in German)
+- [Related article from FHNW](https://www.fhnw.ch/de/weiterbildung/technik/data-science/projekte/warum-das-entdecken-von-podcasts-so-schwierig-ist-und-was-man-mit-machine-learning-dagegen-tun-kann?token=602b10010b514d4e822d5b0f5e685c8c) (in German)
 - [PDF of my diploma presentation](https://github.com/rnckp/Diploma-Project-FHNW/blob/main/Presentation%20_%20German.pdf)
 
 ---
