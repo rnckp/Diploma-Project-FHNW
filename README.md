@@ -1,7 +1,8 @@
 # Podcast discovery (still) is broken – let’s improve it with NLP and Machine Learning
 
-Project for Diploma of Advanced Studies at FHNW
-Patrick Arnecke, April 2022
+My capsto project for DAS (Diploma of Advanced Studies) in Data Science at FHNW
+
+
 - [Related article from FHNW](https://www.fhnw.ch/de/weiterbildung/technik/data-science/projekte/warum-das-entdecken-von-podcasts-so-schwierig-ist-und-was-man-mit-machine-learning-dagegen-tun-kann) (in German)
 - PDF of Diploma presentation
 
