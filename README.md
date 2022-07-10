@@ -1,10 +1,10 @@
 # Podcast discovery (still) is broken – let’s improve it with NLP and Machine Learning
 
-My capsto project for DAS (Diploma of Advanced Studies) in Data Science at FHNW
+My capstone project for the Diploma of Advanced Studies (DAS) in Data Science at FHNW
 
 
 - [Related article from FHNW](https://www.fhnw.ch/de/weiterbildung/technik/data-science/projekte/warum-das-entdecken-von-podcasts-so-schwierig-ist-und-was-man-mit-machine-learning-dagegen-tun-kann) (in German)
-- PDF of Diploma presentation
+- [PDF of my diploma presentation](https://github.com/rnckp/Diploma-Project-FHNW/blob/main/Presentation%20_%20German.pdf)
 
 ---
 
